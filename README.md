@@ -20,7 +20,7 @@ NumPy
 Pandas
 
 ## Dataset
-The dataset is not included. Please download it from https://www.kaggle.com/datasets/jehanbhathena/weather-dataset.
+The dataset is not included. Please download it from https://www.kaggle.com/datasets/jehanbhathena/weather-dataset and split it into training, testing, and validation.
 
 Install the required packages:
 ```bash
